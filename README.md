@@ -1,8 +1,5 @@
-# React + Vite
+# iPhone 15 Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Created with Three.js and GSAP
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![iphone15prev](https://github.com/thereal-osas/iPhone15_Pro/assets/85516194/a5c8a332-5f0c-406a-beff-f974e220456e)
